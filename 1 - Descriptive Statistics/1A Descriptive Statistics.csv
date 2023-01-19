@@ -1,0 +1,18 @@
+Name,Age, Rating,,Age Analysis,,,Rating Analysis,
+AAA,25,4.23,,,,,,
+BBB,26,3.24,,Mean,31.83333333,,Mean,3.743333333
+CCC,25,3.98,,Standard Error,2.665245834,,Standard Error,0.190995531
+DDD,23,2.56,,Median,29.5,,Median,3.79
+EEE,30,3.2,,Mode,25,,Mode,N/A
+FFF,29,4.6,,Standard Deviation,9.232682397,,Standard Deviation,0.661627928
+GGG,23,3.8,,Sample Variance,85.24242424,,Sample Variance,0.437751515
+HHH,34,3.78,,Kurtosis,0.249309659,,Kurtosis,-0.487235911
+III,40,2.98,,Skewness,1.135088832,,Skewness,-0.153628627
+JJJ,30,4.8,,Range,28,,Range,2.24
+KKK,51,4.1,,Minimum,23,,Minimum,2.56
+LLL,46,3.65,,Maximum,51,,Maximum,4.8
+,,,,Sum,382,,Sum,44.92
+,,,,Count,12,,Count,12
+,,,,Largest(1),51,,Largest(1),4.8
+,,,,Smallest(1),23,,Smallest(1),2.56
+,,,,Confidence Level(95.0%),5.866166528,,Confidence Level(95.0%),0.42037833
